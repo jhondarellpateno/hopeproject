@@ -38,7 +38,7 @@ if (isset($_SERVER['REQUEST_METHOD']) && $_SERVER['REQUEST_METHOD'] === 'POST' &
           </p>
           <a href="register.php" class="hero-button">Get Started &nbsp; →</a>
         </div>
-        <img src="images/side-background.jpg" alt="Mental Health" />
+        <img src="images/side-background.png" alt="Mental Health" />
       </div>
     </section>
 
